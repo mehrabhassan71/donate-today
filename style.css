@@ -1,0 +1,36 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url(images/Picsart_22-07-07_02-38-16-909.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+}
+
+.water-color {
+    color: aqua;
+}
+
+.green-color {
+    color: greenyellow;
+}
+
+#help {
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    margin-bottom: 40px;
+}
+
+.link-button {
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
